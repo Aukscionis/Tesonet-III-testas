@@ -1,0 +1,11 @@
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\bin\Debug\netcoreapp3.1\tesonet.exe
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\bin\Debug\netcoreapp3.1\tesonet.deps.json
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\bin\Debug\netcoreapp3.1\tesonet.runtimeconfig.json
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\bin\Debug\netcoreapp3.1\tesonet.runtimeconfig.dev.json
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\bin\Debug\netcoreapp3.1\tesonet.dll
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\bin\Debug\netcoreapp3.1\tesonet.pdb
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\obj\Debug\netcoreapp3.1\tesonet.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\obj\Debug\netcoreapp3.1\tesonet.AssemblyInfoInputs.cache
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\obj\Debug\netcoreapp3.1\tesonet.AssemblyInfo.cs
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\obj\Debug\netcoreapp3.1\tesonet.dll
+C:\Users\Lukas\Desktop\tesonet\tesonet\tesonet\obj\Debug\netcoreapp3.1\tesonet.pdb
